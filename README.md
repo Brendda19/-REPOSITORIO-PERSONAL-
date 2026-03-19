@@ -1,7 +1,7 @@
 # -REPOSITORIO PERSONAL- 
 <p align="left">
   <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="150">
-    <h1 align="center">¡Hola soy Brenda Estefany Sanchez Ticllasuca !</h1>
+    <h1 align="center">¡Hola soy Brenda Estefany Sanchez Ticllasuca!</h1>
   
   ## Sobre mí
   Soy estudiante de la carrera de Ingeniería Ambiental voy  en el séptimo ciclo de la carrera en  la Universidad Peruana Cayetano Heredia. 
