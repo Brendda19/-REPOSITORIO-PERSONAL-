@@ -8,5 +8,6 @@
   Me caracterizo por ser una persona responsable, comprometida con el cuidado del medio ambiente y con un gran interés en desarrollar soluciones sostenibles para los desafíos actuales. Me motiva seguir aprendiendo  y contribuir de manera positiva a la sociedad a traves de mi carrera. 
   
 
-  
+  <img width="362" height="502" alt="2026-03-19 154206" src="https://github.com/user-attachments/assets/67678d8f-f56b-496e-9925-43113ed84df3" />
+
   
